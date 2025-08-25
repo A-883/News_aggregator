@@ -1,4 +1,4 @@
-# news-app
+# news_aggregator
 A simple news application using flask.
 Tech Stack: Python, Flask, HTML, NewsAPI
 
